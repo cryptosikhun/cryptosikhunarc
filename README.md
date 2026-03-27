@@ -10,3 +10,4 @@ foundryup
 step 2: initialize project
 forge init arc-deploy
 cd arc-deploy
+step 3: create your contract
