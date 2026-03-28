@@ -35,3 +35,4 @@ contract HelloArc {
 }
 step 4: compile
 compile with the command: forge build
+step 5: create wallet
