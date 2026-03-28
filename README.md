@@ -33,3 +33,4 @@ contract HelloArc {
         return greeting;
     }
 }
+step 4: compile
