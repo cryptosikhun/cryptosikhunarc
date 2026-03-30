@@ -41,3 +41,5 @@ save your private key:
 PRIVATE_KEY="your_private_key"
 
 step 6: fund wallet
+go to arc faucet: https://faucet.circle.com
+request testnet USDC (used as gas)
