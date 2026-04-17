@@ -52,3 +52,4 @@ forge create src/HelloArc.sol:HelloArc \
 step 8: interact
 cast call <CONTRACT_ADDRESS> "getGreeting()(string)" \
   --rpc-url $ARC_TESTNET_RPC_URL
+what you just did
