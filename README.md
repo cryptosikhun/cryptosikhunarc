@@ -45,3 +45,7 @@ go to arc faucet: https://faucet.circle.com
 request testnet USDC (used as gas)
 step 7: deploy contract
 forge create src/HelloArc.sol:HelloArc \
+ --constructor-args "hello arc" \
+  --rpc-url $ARC_TESTNET_RPC_URL \
+  --private-key $PRIVATE_KEY \
+  --broadcast
