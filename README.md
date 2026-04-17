@@ -50,3 +50,5 @@ forge create src/HelloArc.sol:HelloArc \
   --private-key $PRIVATE_KEY \
   --broadcast
 step 8: interact
+cast call <CONTRACT_ADDRESS> "getGreeting()(string)" \
+  --rpc-url $ARC_TESTNET_RPC_URL
