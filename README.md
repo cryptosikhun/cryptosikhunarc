@@ -49,3 +49,4 @@ forge create src/HelloArc.sol:HelloArc \
   --rpc-url $ARC_TESTNET_RPC_URL \
   --private-key $PRIVATE_KEY \
   --broadcast
+step 8: interact
